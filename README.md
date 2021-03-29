@@ -19,9 +19,9 @@
 #### d. Enables operator to validate reading with real consumption.
 #### e. Enables operator to define tariff for customer.
 #### f. Enables operator to stop meter and cancel subscription for customer.
-#### 4- Admin Module
-### a. Enables admin to view all bills of specific regions.
-### b. Enables admin to view total collected.
-### c. Enables admin to make consumption statistics for specific region.
-### d. Enables admin to add / update / delete users with different roles.
+### 4- Admin Module
+#### a. Enables admin to view all bills of specific regions.
+#### b. Enables admin to view total collected.
+#### c. Enables admin to make consumption statistics for specific region.
+#### d. Enables admin to add / update / delete users with different roles.
 
