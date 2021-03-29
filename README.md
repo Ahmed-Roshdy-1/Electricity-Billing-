@@ -1,6 +1,7 @@
 # Electricity-Billing-
 # this project I had worked on when I in my second years in computer science college using Java
 
+## Electricity-Billing project the requirement
 
 ### 1-Old Customer Module
 #### a. Enables customer to pay a bill with meter code
